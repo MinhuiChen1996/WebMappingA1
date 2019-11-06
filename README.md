@@ -1,7 +1,7 @@
 # WebMappingA1
 Assignment1 for WebMapping
 
-I change my website url, new webiste url is https://www.webmap.tk/
+  I change my website url, new webiste url is https://www.webmap.tk/
   What I did in this Assignment1:
   1.	Geodjango project
   2.	Postgresql database (AWS)
